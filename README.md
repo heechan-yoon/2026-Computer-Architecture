@@ -6,4 +6,5 @@
 
 ## 📂 실습 목차
 * [Lab01 : Combinational Logic with assign](./Lab01)
-* [Lab02 : Combinational Logic with always @(*)] (예정)
+* [Lab02 : Combinational Logic with always and case](./Lab02)
+* [Lab03 : TBD] (예정)
