@@ -8,4 +8,5 @@
 * [Lab01 : Combinational Logic with assign](./Lab01)
 * [Lab02 : Combinational Logic with always and case](./Lab02)
 * [Lab03 : Sequential Logic](./Lab03)
-* [Lab04 : TBD] (예정)
+* [Lab04 : ALU, Register Bank, and Datapath Design](./Lab04)
+* [Lab05 : TBD] (예정)
