@@ -10,4 +10,5 @@
 * [Lab03 : Sequential Logic](./Lab03)
 * [Lab04 : ALU, Register Bank, and Datapath Design](./Lab04)
 * [Lab05 : SystemVerilog](./Lab05)
-* [Lab06 : TBD] (예정)
+* [Lab06 : FSM Synchronizer Design](./Lab06)
+* [Lab07 : TBD] (예정)
