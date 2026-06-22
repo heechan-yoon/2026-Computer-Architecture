@@ -11,4 +11,4 @@
 * [Lab04 : ALU, Register Bank, and Datapath Design](./Lab04)
 * [Lab05 : SystemVerilog](./Lab05)
 * [Lab06 : FSM Synchronizer Design](./Lab06)
-* [Lab07 : TBD] (예정)
+* [Final Project : Full Hazard RISC-V Processor](./project)
